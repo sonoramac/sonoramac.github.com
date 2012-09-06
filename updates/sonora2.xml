@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Sonora</title>
+      <link>http://getsonora.com/updates/sonora2.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+      <item>
+          <title>Version 2.0</title>
+          <sparkle:releaseNotesLink>http://getsonora.com</sparkle:releaseNotesLink>
+          <pubDate>Mon, 20 Aug 2012 21:00:00 +0000</pubDate>
+          <enclosure url="http://getsonora.com/updates/Sonora_200.zip" sparkle:version="200" sparkle:dsaSignature="MCwCFG5rPahuSXSEoBEeg7TybW7XcmR2AhQ+E069Yg9tvM8kjIKC//CCj2cl+Q==" length="6230982" type="application/octet-stream" />
+      </item>
+  </channel>
+</rss>
